@@ -147,4 +147,4 @@ Total Bill Amount: Rs. 61940.0
 ===================================
 
 
-*Note: Tax rates and discount rules are assumed values for this programming exercise.*
+

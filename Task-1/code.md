@@ -16,6 +16,7 @@ Design a Python program to evaluate students for scholarships based on aggregate
 8. Display the ranked list.
 9. Stop.
 3. ##Flowchart (Mermaid)
+4. Flowchart TD
    ~~~ mermaid
     A([Start]) --> B[/Enter number of students/]
     B --> C[Initialize eligible list]
